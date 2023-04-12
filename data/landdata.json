@@ -1,0 +1,33 @@
+﻿{
+	"code":200,
+	"extra":
+	{
+		"apiname" : "mMonitorPlotInfo",
+		"data":[
+			{
+			  "id" : 100,
+			  "landCode":"LAND01",
+			  "landName":"测试01",
+			  "landType":1,
+			  "cameraSid": 320000001,
+			  "type":"polygon",
+			  "coords":[
+			  		{"x":75,"y":50,"h":20.0},{"x":100,"y":75,"h":20.0},{"x":100,"y":25,"h":21.0}
+			  ],
+			  "h":30.5
+			},
+			{
+				"id" : 101,
+				"landCode":"LAND01",
+				"landName":"测试01",
+				"landType":1,
+				"cameraSid": 320000001,
+				"type":"polygon",
+				"coords":[
+						{"x":100,"y":100,"h":20.0},{"x":100,"y":200,"h":20.0},{"x":200,"y":200,"h":21.0},{"x":200,"y":100,"h":21.0}
+				],
+				"h":30.5
+			  }
+		]
+	}
+}
